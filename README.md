@@ -2,11 +2,7 @@
 
 Firefox extension that removes advertisements from the outdated "N-BLOX" page on the tetris website.
 
-Exstension can be found on the [firefox add-ons website](https://addons.mozilla.org/en-US/firefox/addon/nbloxadremover/).
-
-# Disclaimer
-
-**Note that the exstention is currently undergoing review, and as a result is not currently viewable on the Add-Ons page.**
+Exstension can be found on the [firefox add-ons website](https://addons.mozilla.org/en-US/firefox/addon/nblox-adremover/).
 
 # How To Install
 
@@ -16,7 +12,7 @@ There are ways to install this exstention into your firefox browser, either down
 
 This is the easiest form of installation.
 
-1. Visit the [add-ons page](https://addons.mozilla.org/en-US/firefox/addon/nbloxadremover/).
+1. Visit the [add-ons page](https://addons.mozilla.org/en-US/firefox/addon/nblox-adremover/).
 2. Click "Add To Firefox"
 
 ## Manual Installation
